@@ -1,7 +1,7 @@
 from typing import List
 
-from yandex_praktikum.praktikum import Bun
-from yandex_praktikum.praktikum import Ingredient
+from yandex.praktikum import Bun
+from yandex.praktikum import Ingredient
 
 
 class Burger:

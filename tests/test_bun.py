@@ -1,5 +1,5 @@
 import pytest
-from yandex_praktikum.bun import Bun
+from yandex.bun import Bun
 from data import Buns
 
 
